@@ -59,12 +59,12 @@ CREATE TABLE IF NOT EXISTS transactions (
 ```bash
 budget-tracker/
 ├── css/
-│   └── style.css     # Contains the styling for the application
-├── index.php         # Main entry point for the application
-├── config.php        # Database configuration file
-├── setup.sql         # SQL file for database setup
-├── budget_tracker.sqlite # SQLite database file (optional, if using SQLite)
-├── README.md         # Project documentation
+│   └── style.css            # Contains the styling for the application
+├── index.php                # Main entry point for the application
+├── check_columns.php        # Database configuration file
+├── setup.sql                # SQL file for database setup
+├── budget_tracker.sqlite    # SQLite database file (optional, if using SQLite)
+├── README.md                # Project documentation
 ```
 
 ## How to Use
